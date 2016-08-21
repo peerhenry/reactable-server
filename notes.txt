@@ -1,0 +1,16 @@
+
+==== Mongo ====
+
+run mongo with the command:
+mongod --dbpath <data directory>
+
+then run:
+mongo
+to run the mongo shell
+
+==== Favicon ====
+
+the icon was gotten from:
+http://www.flaticon.com/free-icon/table-grid_25617#term=table&page=1&position=26
+
+====  ====
